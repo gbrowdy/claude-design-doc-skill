@@ -1,9 +1,16 @@
 {
+  "name": "design-proposal-marketplace",
+  "owner": {
+    "name": "Gil Browdy"
+  },
   "plugins": [
     {
       "name": "design-proposal",
       "description": "Transform brainstorming design docs into concise, human-reviewable proposals for mixed audiences",
-      "repository": "gbrowdy/claude-design-doc-skill"
+      "source": {
+        "source": "github",
+        "repo": "gbrowdy/claude-design-doc-skill"
+      }
     }
   ]
 }
